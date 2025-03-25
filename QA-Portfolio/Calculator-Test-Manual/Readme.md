@@ -1,5 +1,8 @@
 # Testes Manuais - Calculadora Online
 
+## 📌 Tags  
+#QA #ManualTesting #TestCases #BugReport #Calculadora #Portfolio
+
 ## Objetivo
 Testar funcionalidades básicas e de memória da calculadora em [calculator.net](https://www.calculator.net/), identificando bugs e documentando evidências.
 
@@ -22,3 +25,7 @@ Testar funcionalidades básicas e de memória da calculadora em [calculator.net]
 - [Casos de Teste](/Test-Cases/Calculator-Tests.xlsx)
 - [Relatório de Bugs](/Bug-Reports/Bug-Calculator.md)
 - [Evidências](/Evidence/)
+
+## 💡 Insights
+- Descobri que 40% dos bugs estavam em funções de memória
+- A importância de testar edge cases (ex: divisão por zero)
