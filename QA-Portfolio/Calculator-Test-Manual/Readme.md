@@ -29,10 +29,13 @@ Testar funcionalidades básicas e de memória da [calculadora em calculator.net]
 | Gravador de Passos| Captura de tela e gravações      |  
 | GitHub            | Versionamento e portfólio        |  
 
+
 ## 📂 Estrutura do Projeto  
 📄 [Casos de Teste](https://github.com/ThamyresDelmindo/QAPortfolio/blob/main/QA-Portfolio/Calculator-Test-Manual/Test-Cases/TesteManualCalculadora.xlsx)
-📄 [Relatório de Bugs](https://github.com/ThamyresDelmindo/QAPortfolio/blob/main/QA-Portfolio/Calculator-Test-Manual/Test-Cases/TesteManualCalculadora.xlsx)
-📁 Evidencias
+
+📁 [Relatório de Bugs](https://github.com/ThamyresDelmindo/QAPortfolio/blob/main/QA-Portfolio/Calculator-Test-Manual/Test-Cases/TesteManualCalculadora.xlsx)
+
+📁[Evidências](https://github.com/ThamyresDelmindo/QAPortfolio/blob/main/QA-Portfolio/Calculator-Test-Manual/Evidence)
 
 ## 💡 Insights e Lições Aprendidas  
 - 🔄 **40% dos bugs** em funções de memória (MR/MC).  
