@@ -41,7 +41,7 @@ Testar funcionalidades básicas e de memória da [calculadora em calculator.net]
 - 📌 **Documentação clara** é essencial para reproduzir bugs.  
 
 ## 🎥 Demonstração do Bug MR/MC  
-![GIF mostrando o bug dos botões MR/MC](evidencias/bug-mr-mc.gif)  
+![GIF mostrando o bug dos botões MR/MC](evidencias/CT-018-FunçãoMC-GravadordePassos.gif)  
 *Botões MR/MC não funcionam conforme o esperado - veja a alternância sem ação.*  
 
 ## 🚀 Como Reproduzir  
