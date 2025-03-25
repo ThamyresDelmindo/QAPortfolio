@@ -48,7 +48,7 @@ Testar funcionalidades básicas e de memória da [calculadora em calculator.net]
 
 ## 🚀 Como Reproduzir  
 1. Acesse [calculator.net](https://www.calculator.net/).  
-2. Siga os [casos de teste](/Test-Cases/).  
+2. Siga os [casos de teste]([/Test-Cases/](https://github.com/ThamyresDelmindo/QAPortfolio/blob/main/QA-Portfolio/Calculator-Test-Manual/Test-Cases/TesteManualCalculadora.xlsx).  
 
 ## 🔎 Tags  
 `#QA` `#TestesManuais` `#CasosDeTeste` `#BugReport` `#PortfólioQA`  
